@@ -3,5 +3,5 @@ This repository contains a PTV Vissim microscopic traffic simulation model devel
 - The VISSIM model requires the vissim model(.inpx file) and all 162 traffic signal files(.prbc) to be located together in the same directory.
 
 ## Requirements
-- PTV Vissim 2023
-- DTA add ons
+- PTV Vissim 2023 (SP 13)
+- Dynanmic Traffic Assignment (DTA) add ons
